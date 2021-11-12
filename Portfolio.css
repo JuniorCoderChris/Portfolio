@@ -1,0 +1,35 @@
+.h2 {
+    font-family: 'Times New Roman';
+}
+
+.header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url('tumblr_8da46586fe644501b2196e872642a1e8_6e472aed_1280.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: rgba(231, 231, 231, 0.7);
+}
+.created {
+    text-align: center;
+}
+
+.flag {
+    height: 20px;
+    width: auto;
+}
+
+.btn-full {
+    background-color: #707070;
+    border: 1px solid #1a1a1a;
+    color: #fff;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    color: #fff;
+}
